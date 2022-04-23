@@ -1,1 +1,1 @@
-# Website-for-UI-UX-Event
+# Website for UI/UX Event
